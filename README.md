@@ -9,4 +9,4 @@ This data set contains information on thousands of respondants ranging from age 
 
 <img width="298" alt="image" src="https://github.com/ben-fajack/Adult_Income_Preds/assets/134533964/41a037be-efb3-4bea-b7b5-18867613f240">
 
-## **Here we see that one of our other intuitive assumptions is also correct for this dataset: income tends to increase as one gets older.
+## **Here we see that one of our other intuitive assumptions is also correct for this dataset: income tends to increase as one gets older.**
